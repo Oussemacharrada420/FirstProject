@@ -1,0 +1,14 @@
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataAccess.dll
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.dll
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\ref\DataAccess.dll

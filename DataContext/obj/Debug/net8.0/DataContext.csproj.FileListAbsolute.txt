@@ -1,0 +1,14 @@
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataContext.deps.json
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataContext.dll
+C:\Users\youssef\source\repos\WebApplication2\DataContext\bin\Debug\net8.0\DataContext.pdb
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.dll
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.pdb
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\Users\youssef\source\repos\WebApplication2\DataContext\obj\Debug\net8.0\ref\DataContext.dll
